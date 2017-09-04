@@ -1,0 +1,5 @@
+jsonMappers\Quote.class
+kasper\rest\quotes\QuoteResource.class
+jsonMappers\QuoteId.class
+kasper\rest\quotes\QuoteResource$1.class
+kasper\rest\quotes\ApplicationConfig.class
